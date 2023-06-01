@@ -1,0 +1,185 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\obj\\Debug\\net6.0\\build-gz\\l+PcHmdS.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\obj\\Debug\\net6.0\\scopedcss\\bundle\\VendorSpot.styles.css",
+      "PackagePath": "staticwebassets\\VendorSpot.styles.css"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Beauty\\Beauty1.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty1.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Beauty\\Beauty2.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty2.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Beauty\\Beauty3.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty3.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Beauty\\Beauty4.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty4.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Beauty\\Beauty5.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty5.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Electronic\\Electronics1.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\Electronics1.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Electronic\\Electronics3.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\Electronics3.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Electronic\\electronic4.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronic4.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Electronic\\electronic5.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronic5.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Electronic\\electronics2.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronics2.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Electronic\\technology6.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\technology6.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Furniture\\Furniture1.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture1.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Furniture\\Furniture2.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture2.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Furniture\\Furniture3.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture3.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Furniture\\Furniture4.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture4.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Furniture\\Furniture6.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture6.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Furniture\\Furniture7.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture7.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Shoes\\Shoes1.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes1.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Shoes\\Shoes2.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes2.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Shoes\\Shoes3.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes3.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Shoes\\Shoes5.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes5.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Shoes\\Shoes6.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes6.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\Images\\Shoes\\shoes4.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\shoes4.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "F:\\ShopOnlineSolution\\VendorSpot\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.VendorSpot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.VendorSpot.props",
+      "PackagePath": "build\\VendorSpot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.VendorSpot.props",
+      "PackagePath": "buildMultiTargeting\\VendorSpot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.VendorSpot.props",
+      "PackagePath": "buildTransitive\\VendorSpot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
