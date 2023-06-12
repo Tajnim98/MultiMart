@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = VendorSpot
+build_property.RootNamespace = VendorSpot
+build_property.ProjectDir = E:\semester project\MultiMart\VendorSpot\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\semester project\MultiMart\VendorSpot
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/semester project/MultiMart/VendorSpot/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/semester project/MultiMart/VendorSpot/Pages/DisplayError.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUVycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/semester project/MultiMart/VendorSpot/Pages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/semester project/MultiMart/VendorSpot/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/semester project/MultiMart/VendorSpot/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/semester project/MultiMart/VendorSpot/Pages/DisplayProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVByb2R1Y3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-9tvcr8w0o5
+
+[E:/semester project/MultiMart/VendorSpot/Pages/DisplaySpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVNwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8on1f5f7ye
+
+[E:/semester project/MultiMart/VendorSpot/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-glc96e9mky
+
+[E:/semester project/MultiMart/VendorSpot/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ld2ol1f5le

@@ -3,12 +3,12 @@
 
 @if (Product==null && ErrorMessage==null)
 {
-    <h3>Loding product details.....</h3>
+    <DisplaySpinner/>
 
 }
 else if (ErrorMessage !=null)
 {
-    <h3 class=" text-danger">@ErrorMessage</h3>
+   <DisplayError ErrorMessage="@ErrorMessage"></DisplayError>
 }
 else
 {
@@ -26,6 +26,15 @@ else
                     @Product.Price.ToString("C")&nbsp; (@Product.Qty items in stock)
                 </b>
             </p>
+            <div>
+                <button class="btn btn-success"
+                @onclick ="()=> (AddToCart_Click(new CartItemToAddDto{
+                    CartId=HardCoded.CartId,
+                    ProductId=Product.Id,
+                    Qty=1
+                }))"><b>Add to Cart</b>
+                </button>
+            </div>
         </div>
 
     </div>

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShopOnline.Api",
+    "\\ShopOnline.Api\\Controllers",
+    "\\ShopOnline.Api\\Entities",
+    "\\ShopOnline.Api\\Extensions",
+    "\\ShopOnline.Api\\Migrations",
+    "\\ShopOnline.Api\\Properties",
+    "\\ShopOnline.Api\\Repositories",
+    "\\ShopOnline.models\\Dtos"
+  ],
+  "PreviewInSolutionExplorer": false
+}

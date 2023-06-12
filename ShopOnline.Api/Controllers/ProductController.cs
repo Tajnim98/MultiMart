@@ -15,8 +15,9 @@ namespace ShopOnline.Api.Controllers
         {
             this.productRepository = productRepository;
         }
+
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ProductDto>>> GetItems(int id)
+        public async Task<ActionResult<IEnumerable<ProductDto>>> GetItems()
         {
             try
             {

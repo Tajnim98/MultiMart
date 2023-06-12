@@ -3738,19 +3738,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER OS\\.nuget\\packages\\": {}
+    "C:\\Users\\nayem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+      "projectUniqueName": "E:\\semester project\\MultiMart\\ShopOnline.Api\\ShopOnline.Api.csproj",
       "projectName": "ShopOnline.Api",
-      "projectPath": "F:\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
-      "packagesPath": "C:\\Users\\USER OS\\.nuget\\packages\\",
-      "outputPath": "F:\\ShopOnlineSolution\\ShopOnline.Api\\obj\\",
+      "projectPath": "E:\\semester project\\MultiMart\\ShopOnline.Api\\ShopOnline.Api.csproj",
+      "packagesPath": "C:\\Users\\nayem\\.nuget\\packages\\",
+      "outputPath": "E:\\semester project\\MultiMart\\ShopOnline.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nayem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3758,14 +3758,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\ShopOnlineSolution\\ShopOnline.models\\ShopOnline.models.csproj": {
-              "projectPath": "F:\\ShopOnlineSolution\\ShopOnline.models\\ShopOnline.models.csproj"
+            "E:\\semester project\\MultiMart\\ShopOnline.models\\ShopOnline.models.csproj": {
+              "projectPath": "E:\\semester project\\MultiMart\\ShopOnline.models\\ShopOnline.models.csproj"
             }
           }
         }
@@ -3814,7 +3815,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

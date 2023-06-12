@@ -10,6 +10,6 @@ namespace ShopOnline.models.Dtos
     {
         public int CartId { get; set; }
         public int ProductId { get; set; }
-        public int qty { get; set; }
+        public int Qty { get; set; }
     }
 }

@@ -29,5 +29,6 @@ namespace VendorSpot.Pages
             return groupedProductDtos.FirstOrDefault(pg => pg.CategoryId == groupedProductDtos.Key).CategoryName;
         }
 
+        public string ErrorMessage { get; set; }
     }
 }

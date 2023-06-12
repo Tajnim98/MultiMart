@@ -10,3 +10,15 @@ F:\ShopOnlineSolution\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.dll
 F:\ShopOnlineSolution\ShopOnline.models\obj\Debug\net6.0\refint\ShopOnline.models.dll
 F:\ShopOnlineSolution\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.pdb
 F:\ShopOnlineSolution\ShopOnline.models\obj\Debug\net6.0\ref\ShopOnline.models.dll
+E:\semester project\MultiMart\ShopOnline.models\bin\Debug\net6.0\ShopOnline.models.deps.json
+E:\semester project\MultiMart\ShopOnline.models\bin\Debug\net6.0\ShopOnline.models.dll
+E:\semester project\MultiMart\ShopOnline.models\bin\Debug\net6.0\ShopOnline.models.pdb
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.csproj.AssemblyReference.cache
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.AssemblyInfoInputs.cache
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.AssemblyInfo.cs
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.csproj.CoreCompileInputs.cache
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.dll
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\refint\ShopOnline.models.dll
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\ShopOnline.models.pdb
+E:\semester project\MultiMart\ShopOnline.models\obj\Debug\net6.0\ref\ShopOnline.models.dll
