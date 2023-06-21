@@ -1657,3 +1657,8 @@ E:\semester project\MultiMart\VendorSpot\obj\Debug\net6.0\VendorSpot.dll
 E:\semester project\MultiMart\VendorSpot\obj\Debug\net6.0\refint\VendorSpot.dll
 E:\semester project\MultiMart\VendorSpot\obj\Debug\net6.0\VendorSpot.pdb
 E:\semester project\MultiMart\VendorSpot\obj\Debug\net6.0\ref\VendorSpot.dll
+E:\semester project\MultiMart\VendorSpot\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+E:\semester project\MultiMart\VendorSpot\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+E:\semester project\MultiMart\VendorSpot\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\semester project\MultiMart\VendorSpot\obj\Debug\net6.0\build-gz\y0wHiBVR.gz
+E:\semester project\MultiMart\VendorSpot\obj\Debug\net6.0\scopedcss\Pages\ShoppingCart.razor.rz.scp.css

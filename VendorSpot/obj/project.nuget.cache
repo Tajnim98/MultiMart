@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RXEu+ZD/uhw84TuOcjjYCw7CSFwqoetRRZOjGO84K8RAj5tKILYWHj/7hM0JY4f2xzIb/sT3c3kxTvEIThFm9A==",
+  "dgSpecHash": "R+WNY9TXmqTZt2iUemyezNVjSOM8NtjlExwP1bfHRzcPQJCHXkHIUU8QT5EIG7W0Irh19NfT1QpepkjjvZOg3Q==",
   "success": true,
   "projectFilePath": "E:\\semester project\\MultiMart\\VendorSpot\\VendorSpot.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\nayem\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\nayem\\.nuget\\packages\\microsoft.jsinterop\\6.0.15\\microsoft.jsinterop.6.0.15.nupkg.sha512",
     "C:\\Users\\nayem\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.15\\microsoft.jsinterop.webassembly.6.0.15.nupkg.sha512",
+    "C:\\Users\\nayem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\nayem\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\nayem\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\nayem\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

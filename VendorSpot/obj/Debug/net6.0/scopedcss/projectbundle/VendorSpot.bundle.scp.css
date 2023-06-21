@@ -114,6 +114,10 @@ img[b-9tvcr8w0o5] {
         opacity: 0;
     }
 }
+/* /Pages/ShoppingCart.razor.rz.scp.css */
+.update-qty[b-h7a2mg4b79]{
+    display: none;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-glc96e9mky] {
     position: relative;

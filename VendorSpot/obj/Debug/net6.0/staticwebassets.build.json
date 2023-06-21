@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JOxK7ijX1XJ4vLiLXrRJYQGLtvHjtCwcVimcBA2+oSQ=",
+  "Hash": "le04n7bEDhF2pNagc4vNkuu6jYtpWPe/qbWi5akocs4=",
   "Source": "VendorSpot",
   "BasePath": "/",
   "Mode": "Root",
@@ -661,6 +661,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nayem\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.16\\runtimes\\browser-wasm\\lib\\net6.0\\netstandard.dll"
+    },
+    {
+      "Identity": "E:\\semester project\\MultiMart\\VendorSpot\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "SourceId": "VendorSpot",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\semester project\\MultiMart\\VendorSpot\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nayem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib\\net6.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "E:\\semester project\\MultiMart\\VendorSpot\\bin\\Debug\\net6.0\\wwwroot\\_framework\\ShopOnline.models.dll",
@@ -6681,6 +6698,23 @@
       "OriginalItemSpec": "E:\\semester project\\MultiMart\\VendorSpot\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll"
     },
     {
+      "Identity": "E:\\semester project\\MultiMart\\VendorSpot\\obj\\Debug\\net6.0\\build-gz\\y0wHiBVR.gz",
+      "SourceId": "VendorSpot",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\semester project\\MultiMart\\VendorSpot\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\semester project\\MultiMart\\VendorSpot\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\semester project\\MultiMart\\VendorSpot\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
+    },
+    {
       "Identity": "E:\\semester project\\MultiMart\\VendorSpot\\obj\\Debug\\net6.0\\build-gz\\yCLpWN+e.gz",
       "SourceId": "VendorSpot",
       "SourceType": "Computed",
@@ -7546,6 +7580,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\semester project\\MultiMart\\VendorSpot\\wwwroot\\js\\ShoppingCartFunctions.js",
+      "SourceId": "VendorSpot",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\semester project\\MultiMart\\VendorSpot\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/ShoppingCartFunctions.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ShoppingCartFunctions.js"
     }
   ]
 }
