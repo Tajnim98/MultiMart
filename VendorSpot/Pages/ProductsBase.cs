@@ -9,12 +9,32 @@ namespace VendorSpot.Pages
     {
         [Inject]
         public IProductService productService { get; set; }
+        [Inject]
+        public IShoppingCartService ShoppingCartService { get; set; }
+
 
         public IEnumerable<ProductDto> Products { get; set; }
 
+        public NavigationManager NavigationManager { get; set; }
+
+        public string ErrorMessage { get; set; }
         protected override async Task OnInitializedAsync()
         {
-            Products = await productService.GetItems();
+            try
+            {
+                Products = await productService.GetItems();
+                var shoppingCartItems = await ShoppingCartService.GetItems(HardCoded.UserId);
+                var totalQty = shoppingCartItems.Sum(i => i.Qty);
+
+                ShoppingCartService.raiseEventOnShoppingCartChanged(totalQty);
+
+            }
+            catch (Exception ex)
+            {
+
+                ErrorMessage = ex.Message;
+            }
+           
         }
 
         protected IOrderedEnumerable<IGrouping<int, ProductDto>>GetGroupedProductsByCategory()
@@ -29,6 +49,6 @@ namespace VendorSpot.Pages
             return groupedProductDtos.FirstOrDefault(pg => pg.CategoryId == groupedProductDtos.Key).CategoryName;
         }
 
-        public string ErrorMessage { get; set; }
+        
     }
 }

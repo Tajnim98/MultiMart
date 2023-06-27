@@ -9,6 +9,7 @@ namespace VendorSpot.Services
     public class ShoppingCartService : IShoppingCartService
     {
         private readonly HttpClient httpClient;
+        public event Action<int> OnShoppingCartChanged;
 
         public ShoppingCartService(HttpClient httpClient) 
         {
@@ -101,6 +102,14 @@ namespace VendorSpot.Services
             {
 
                 throw;
+            }
+        }
+
+        public void raiseEventOnShoppingCartChanged(int totalQty)
+        {
+            if (OnShoppingCartChanged != null)
+            {
+                OnShoppingCartChanged.Invoke(totalQty);
             }
         }
     }

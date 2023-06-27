@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nayem\\.nuget\\packages\\": {}
+    "C:\\Users\\USER OS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\semester project\\MultiMart\\ShopOnline.models\\ShopOnline.models.csproj",
+      "projectUniqueName": "F:\\Multimart\\MultiMart\\ShopOnline.models\\ShopOnline.models.csproj",
       "projectName": "ShopOnline.models",
-      "projectPath": "E:\\semester project\\MultiMart\\ShopOnline.models\\ShopOnline.models.csproj",
-      "packagesPath": "C:\\Users\\nayem\\.nuget\\packages\\",
-      "outputPath": "E:\\semester project\\MultiMart\\ShopOnline.models\\obj\\",
+      "projectPath": "F:\\Multimart\\MultiMart\\ShopOnline.models\\ShopOnline.models.csproj",
+      "packagesPath": "C:\\Users\\USER OS\\.nuget\\packages\\",
+      "outputPath": "F:\\Multimart\\MultiMart\\ShopOnline.models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nayem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

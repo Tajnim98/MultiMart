@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = VendorSpot
 build_property.RootNamespace = VendorSpot
-build_property.ProjectDir = E:\semester project\MultiMart\VendorSpot\
+build_property.ProjectDir = F:\Multimart\MultiMart\VendorSpot\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\semester project\MultiMart\VendorSpot
+build_property.MSBuildProjectDirectory = F:\Multimart\MultiMart\VendorSpot
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/semester project/MultiMart/VendorSpot/App.razor]
+[F:/Multimart/MultiMart/VendorSpot/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/semester project/MultiMart/VendorSpot/Pages/DisplayError.razor]
+[F:/Multimart/MultiMart/VendorSpot/Pages/DisplayError.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUVycm9yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/semester project/MultiMart/VendorSpot/Pages/ProductDetails.razor]
+[F:/Multimart/MultiMart/VendorSpot/Pages/ProductDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/semester project/MultiMart/VendorSpot/Pages/Products.razor]
+[F:/Multimart/MultiMart/VendorSpot/Pages/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/semester project/MultiMart/VendorSpot/_Imports.razor]
+[F:/Multimart/MultiMart/VendorSpot/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/semester project/MultiMart/VendorSpot/Pages/DisplayProducts.razor]
+[F:/Multimart/MultiMart/VendorSpot/Pages/DisplayProducts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVByb2R1Y3RzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-9tvcr8w0o5
 
-[E:/semester project/MultiMart/VendorSpot/Pages/DisplaySpinner.razor]
+[F:/Multimart/MultiMart/VendorSpot/Pages/DisplaySpinner.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVNwaW5uZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8on1f5f7ye
 
-[E:/semester project/MultiMart/VendorSpot/Pages/ShoppingCart.razor]
+[F:/Multimart/MultiMart/VendorSpot/Pages/ShoppingCart.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdDYXJ0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-h7a2mg4b79
 
-[E:/semester project/MultiMart/VendorSpot/Shared/MainLayout.razor]
+[F:/Multimart/MultiMart/VendorSpot/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-glc96e9mky
 
-[E:/semester project/MultiMart/VendorSpot/Shared/NavMenu.razor]
+[F:/Multimart/MultiMart/VendorSpot/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ld2ol1f5le
