@@ -23,7 +23,7 @@ namespace VendorSpot.Pages
             try
             {
                 ShoppingCartItems = await ShoppingCartService.GetItems(HardCoded.UserId);
-                CalculateCartSummaryTotals();
+                CartChanged();
             }
             catch(Exception ex)
             {
@@ -33,8 +33,8 @@ namespace VendorSpot.Pages
         protected async Task DeleteCartItem_Click(int id)
         {
             var cartItemDto = await ShoppingCartService.DeleteItem(id);
-            RemoveCartItem(cartItemDto.Id);
-            CalculateCartSummaryTotals();
+            RemoveCartItem(id);
+            CartChanged();
 
 
         }
@@ -52,7 +52,7 @@ namespace VendorSpot.Pages
                     };
                     var returnedUpdateItemDto = await this.ShoppingCartService.UpdateQty(updateItemDto);
                     UpdateItemTotalPrice(returnedUpdateItemDto);
-                    CalculateCartSummaryTotals();
+                    CartChanged();
                     await MakeUpdateQtyButtonVisible(id, false) ;
                 }
                 else
@@ -109,6 +109,12 @@ namespace VendorSpot.Pages
 
             var cartItemDto = GetCartItem(id);
             ShoppingCartItems.Remove(cartItemDto);
+        }
+
+        private void CartChanged()
+        {
+            CalculateCartSummaryTotals();
+            ShoppingCartService.RaiseEventOnShoppingCartChanged(TotalQuantity) ;
         }
     }
 }

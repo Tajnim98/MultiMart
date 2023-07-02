@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using VendorSpot;
+using VendorSpot;  
 using VendorSpot.Services;
 using VendorSpot.Services.Contracts;
 

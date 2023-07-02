@@ -13,7 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContextPool<ShopOnlineDbContext>(option =>
-    option.UseSqlServer(builder.Configuration.GetConnectionString("ShopOnlineConnection_Saiful"))
+    option.UseSqlServer(builder.Configuration.GetConnectionString("ShopOnlineConnection_Mim"))
 );
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IShoppingCartRepository, ShoppingCartRepository>();
